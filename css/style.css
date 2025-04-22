@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(255, 238, 0);
+}
+
+h1{
+    text-align: center;
+    color: fuchsia;
+}
+
+h2{
+    text-align: center;
+    color: seagreen;
+}
+
+.group{
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.telephone{
+    width: 500px;
+}
+
+.tiktok{
+    width: 500px;
+}
+
+.lmfao{
+    width: 500px;
+}
+
+.wakawaka{
+    width: 500px;
+}
+
+.set1{
+   
+}
+
+.set2{
+   
+}
+
+span{
+    font: bold; color: rgb(105, 23, 181);
+    font-style: italic;
+}
