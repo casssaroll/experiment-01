@@ -1,10 +1,10 @@
 body{
-    background-color: yellow
+    background-color: greenyellow
 }
 
 h1{
     text-align: center;
-    color: fuchsia;
+    color: blueviolet;
 }
 
 h2{
@@ -36,7 +36,7 @@ h2{
 }
 
 span{
-    font: bold; color: blueviolet;
+    font: bold; color: rgb(105, 23, 181);
     font-style: italic;
 }
 
